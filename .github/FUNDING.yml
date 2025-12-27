@@ -1,15 +1,26 @@
-github: justbytecode
-patreon: velocitycli
+## ❤️ Support Velocity
 
+Velocity is an open-source, high-performance CLI package manager built in Rust.
+It’s a side project, built and maintained independently with a strong focus on
+security, speed, and developer experience.
 
-# Optional platforms (uncomment when ready)
-# open_collective: velocity
-# ko_fi: velocitycli
-# polar: velocity
-# liberapay: velocitycli
+If Velocity helps you in your work, consider supporting its development.
 
-# Custom links (up to 4)
-custom:
-  - https://buymeacoffee.com/velocitycli
-  - https://razorpay.me/@manipal
+### 🌍 Global Support
+- ☕ Buy Me a Coffee: https://buymeacoffee.com/velocitycli
 
+### 🇮🇳 India Support
+- 💳 Razorpay: https://razorpay.me/@manipal
+
+### 🔗 Crypto Support
+- **Ethereum (ERC20)**: `0xYOUR_ETH_ADDRESS`
+- **Solana**: `YOUR_SOLANA_ADDRESS`
+- **USDT (Polygon / Solana)**: `YOUR_USDT_ADDRESS`
+
+Your support helps with:
+- Faster releases
+- Security audits
+- Better documentation
+- Long-term maintenance
+
+Thank you for supporting open source. 🙏
