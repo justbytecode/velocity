@@ -18,7 +18,7 @@ Please be respectful and considerate of others. We want Velocity to be a welcomi
 
 ```bash
 # Clone the repository
-git clone https://github.com/nicholaspalmer/velocity.git
+git clone https://github.com/justbytecode/velocity.git
 cd velocity
 
 # Build the project
@@ -250,14 +250,7 @@ pub async fn resolve(&self, dependencies: &HashMap<String, String>) -> VelocityR
 - Path traversal checks on all file operations
 - No implicit script execution
 
-## Pull Request Checklist
 
-- [ ] Code follows project style
-- [ ] Tests pass (`cargo test`)
-- [ ] Clippy passes (`cargo clippy`)
-- [ ] Formatted (`cargo fmt`)
-- [ ] Documentation updated
-- [ ] Changelog updated (if applicable)
 
 ## Questions?
 
