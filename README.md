@@ -434,17 +434,6 @@ hoist = true
 shared_lockfile = true
 ```
 
-### Environment Variables
-
-```bash
-VELOCITY_REGISTRY=https://registry.npmjs.org
-VELOCITY_CACHE_DIR=~/.velocity/cache
-VELOCITY_OFFLINE=true
-VELOCITY_CONCURRENCY=8
-VELOCITY_TIMEOUT=60
-```
-
----
 
 ## Output Modes
 
