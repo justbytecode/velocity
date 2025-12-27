@@ -31,7 +31,7 @@ Velocity is a high-performance, secure package manager for JavaScript and TypeSc
 
 ```bash
 # Clone the repository
-git clone https://github.com/nicholaspalmer/velocity.git
+git clone https://github.com/justbytecode/velocity.git
 cd velocity
 
 # Build release binary
@@ -40,16 +40,7 @@ cargo build --release
 # The binary will be at ./target/release/velocity
 ```
 
-### Prebuilt Binaries
 
-Download the latest release for your platform:
-
-- **Linux (x64)**: `velocity-linux-x86_64.tar.gz`
-- **macOS (x64)**: `velocity-macos-x86_64.tar.gz`
-- **macOS (ARM)**: `velocity-macos-aarch64.tar.gz`
-- **Windows (x64)**: `velocity-windows-x86_64.zip`
-
----
 
 ## Quick Start
 
@@ -602,6 +593,6 @@ Velocity is open source software licensed under the [MIT License](LICENSE).
 
 **Made with ❤️ and Rust**
 
-[GitHub](https://github.com/nicholaspalmer/velocity) • [Issues](https://github.com/nicholaspalmer/velocity/issues) • [Discussions](https://github.com/nicholaspalmer/velocity/discussions)
+[GitHub](https://github.com/justbytecode/velocity) • [Issues](https://github.com/justbytecode/velocity/issues) • [Discussions](https://github.com/justbytecode/velocity/discussions)
 
 </div>
